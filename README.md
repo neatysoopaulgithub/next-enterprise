@@ -1,5 +1,12 @@
 # Next.js Enterprise Boilerplate
 
+![Enterprise boilerplate](https://github.com/neatysoopaulgithub/next-enterprise/assets/123167854/f3f6ba07-e035-45b6-82e4-0a1753d826a5)
+
+![Enterprise boilerplate 2 of 3](https://github.com/neatysoopaulgithub/next-enterprise/assets/123167854/8e315c3b-9063-4d92-a5e8-b55ae5ef8f02)
+
+![Enterprise boilerplate 3 of 3](https://github.com/neatysoopaulgithub/next-enterprise/assets/123167854/34c68630-9765-49e6-907e-ccc4acb79171)
+
+
 ![Project intro image](./project-logo.png)
 
 Welcome to the _Next.js Enterprise Boilerplate_, an open-source template for enterprise projects! It's loaded with features that'll help you build a high-performance, maintainable, and enjoyable app. We've done all the heavy lifting for you, so sit back, relax, and get ready to conquer the world with your incredible app! 🌍
