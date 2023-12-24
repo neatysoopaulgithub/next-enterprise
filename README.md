@@ -1,5 +1,6 @@
 # Next.js Enterprise Boilerplate
 
+Screenshots
 ![Enterprise boilerplate](https://github.com/neatysoopaulgithub/next-enterprise/assets/123167854/f3f6ba07-e035-45b6-82e4-0a1753d826a5)
 
 ![Enterprise boilerplate 2 of 3](https://github.com/neatysoopaulgithub/next-enterprise/assets/123167854/8e315c3b-9063-4d92-a5e8-b55ae5ef8f02)
